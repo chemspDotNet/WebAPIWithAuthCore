@@ -1,0 +1,8 @@
+Please refer to following step to create database
+ step 1:
+ Update the connection string in appsetting  to point to your local sql server
+ step:2
+  open package Manger console and run following command to  create DB
+  update-database
+ step 3 : Register new user
+ 
